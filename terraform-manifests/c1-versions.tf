@@ -15,7 +15,7 @@ terraform {
 
 # Provider Block
 provider "azurerm" {
- features {}          
+  features {}          
 }
 
 # Random String Resource
